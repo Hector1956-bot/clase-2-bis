@@ -1,0 +1,8 @@
+Paso a paso para sincronizar una carpeta puntual del sistema operativo con repósitorio remoto de la cuenta de github
+
+1) - Abrir git bush here.
+2) - Git init
+3) - Git config user.name Héctor1956.bot (poner el nombre que tenemos en nuestra cuenta git)
+4) - Git config user.email rolandohector861@gmail.com (poner nuestro email)
+5) - Git config user.password (poner acá el token que generamos)
+6) - Git remote add origin https://github.com/Hector1956-bot/clase-2-bis.git (poner el codigo de nuestro repositorio git)
